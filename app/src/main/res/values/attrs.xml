@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoadingButton">
+        <attr name="downloadColor" format="color" />
+        <attr name="downloadingColor" format="color" />
+        <attr name="downloadingCircle" format="color"/>
+    </declare-styleable>
+</resources>
